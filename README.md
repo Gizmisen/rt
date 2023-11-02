@@ -1,2 +1,2 @@
 1 вариант Определять структуру данных входных и выходные данные Python
-![screenshot](Screenshot 2023-11-02 084956.png)
+![screenshot](paint.png)
